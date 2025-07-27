@@ -1,12 +1,45 @@
-# React + Vite
+# 🍦 Ice Cream Landing Page – Revamped UI/UX Experience
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🔥 About the Project:
 
-Currently, two official plugins are available:
+A creative reimagining of an ice cream brand landing page with modern UI/UX principles, smooth interactions, and custom visuals.
+This started as an open-source concept but was heavily customized and enhanced with my own design direction and animations.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# ✨ Features
+- ✅ Revamped Hero Section – AI-generated visuals + custom gradient background
+- ✅ Dynamic Navbar – Color transition on scroll
+- ✅ Custom Footer Design – Enhanced layout & branding
+- ✅ Testimonials Section – Adds social proof with responsive design
+- ✅ Smooth Scrolling – Powered by Lenis
+- ❌ Not Responsive yet
 
-## Expanding the ESLint configuration
+# 🛠 Tech Stack
+- React.js
+- GSAP (Animations)
+- Lenis (Smooth Scroll)
+- CSS3 (styling)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# 📸 Screenshots
+
+  <img width="1919" height="914" alt="image" src="https://github.com/user-attachments/assets/5cb73fc0-812c-4863-9e17-1168518ac37f" />
+
+  ---
+  <img width="1919" height="915" alt="Screenshot 2025-07-28 031512" src="https://github.com/user-attachments/assets/577e8467-fe24-48d7-913e-c168c365ff89" />
+
+  ---
+
+
+# 🌐 Live Demo for Laptop only
+👉 https://icecream-site.netlify.app/
+
+📂 GitHub Repo I Inspired from 
+👉 https://github.com/divyashrma18/icecream
+
+# ✅ What I Learned
+- How to transform a base concept into a unique design
+- Using AI assets + gradients for custom branding
+- Implementing scroll-triggered navbar behaviors
+- Balancing aesthetic and performance for landing pages
+
+# 🤔 Got Suggestions?
+  I’d love to hear your feedback! Drop your ideas in the comments or reach out to me on LinkedIn.
