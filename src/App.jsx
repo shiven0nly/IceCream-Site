@@ -6,7 +6,7 @@ import Navbar from './components/Navbar'
 import Lenis from 'lenis'
 import Testimonial from './components/Testimonial';
 import Footer from './components/Footer'
-import Credit from './components/credit';
+import Credit from './components/Credit';
 
 function App() {
 
