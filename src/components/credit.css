@@ -1,0 +1,28 @@
+.credit-section {
+  padding: 1.5rem;
+  background-color: #f8f8f8;
+  text-align: center;
+  font-family: 'Arial', sans-serif;
+}
+
+.credit-section p {
+  font-size: 0.9rem;
+  color: #555;
+  margin: 0;
+}
+
+.credit-section a {
+  color: #ff6f61;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.credit-section a:hover {
+  text-decoration: underline;
+}
+
+@media (max-width: 768px) {
+  .credit-section p {
+    font-size: 0.85rem;
+  }
+}

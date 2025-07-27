@@ -6,7 +6,7 @@ import Navbar from './components/Navbar'
 import Lenis from 'lenis'
 import Testimonial from './components/Testimonial';
 import Footer from './components/Footer'
-
+import Credit from './components/credit';
 
 function App() {
 
@@ -26,6 +26,7 @@ function App() {
    <Hero />
    <Testimonial />
    <Footer />
+   <Credit />
     </>
   )
 }
